@@ -1,0 +1,6 @@
+title,category,amount,expense_date,payment_method,notes
+Lunch,Food,180.00,2026-10-27,UPI,Sample data
+Bus fare,Travel,60.00,2026-10-27,Cash,Sample data
+Notebook,Education,95.00,2026-10-27,Cash,Sample data
+Mobile recharge,Bills,299.00,2026-10-26,UPI,Sample data
+Movie ticket,Entertainment,250.00,2026-10-25,Debit Card,Sample data
